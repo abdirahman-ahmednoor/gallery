@@ -16,7 +16,7 @@ To access this project on you local files, you can clone it using these steps:
 1. Python(Django)
 
 ## LIVE SETUP
-View[Live](https://gallery-photo080.herokuapp.com)
+View [Live](https://gallery-photo080.herokuapp.com)
 
 ## LICENSE
 THis project is under [MIT](License) license.
